@@ -29,7 +29,7 @@ This analysis answers questions such as:
 
 ## Screenshots
 
-*Insert dashboard screenshot here if available*
+![Image](https://github.com/user-attachments/assets/09e9bfe8-0da3-4cd4-b9cc-de20087d1bf3)
 
 ## How to Use
 
